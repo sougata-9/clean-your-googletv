@@ -19,7 +19,7 @@
 | The app finds your TV on the Wi-Fi and shows you how to let the phone in with the remote. | It reads what is on the TV and shows the plan: what goes off and what stays. Nothing changes yet. | Tap "Make it clean". A restore point first, then the clutter goes and the new home screen comes on. |
 
 **You need** an Android phone (Android 9 or newer, with a screen lock) on the same Wi-Fi as the TV.
-[Download the APK](https://github.com/udhaykumarbala/cleanyourtv-app/releases/latest) and open it to
+[Download the APK] and open it to
 install. Connecting takes about a minute (you switch on network debugging with the remote; the app
 shows you how), and the whole clean-up about five minutes.
 
@@ -43,7 +43,7 @@ when its owners send its report from the app ("Help add this TV").
 
 ## Two ways to clean your TV
 
-[Clean Your TV](https://github.com/Gathin23/cleanyourtv) gives any Android TV a calm, ad-free home
+Clean Your TV gives any Android TV a calm, ad-free home
 screen and switches off the bloat, using lists tested by its community. On its own it needs a
 computer: you run its scripts, or hand its prompt to a coding agent. This app does the whole job
 from your phone.
